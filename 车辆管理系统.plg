@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 车辆管理系统 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\29265\AppData\Local\Temp\RSPD287.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/车辆管理系统.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\c++文件\车辆管理系统\车辆管理系统.cpp"
+]
+Creating command line "cl.exe @C:\Users\29265\AppData\Local\Temp\RSPD287.tmp" 
+Creating temporary file "C:\Users\29265\AppData\Local\Temp\RSPD288.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/车辆管理系统.pdb" /machine:I386 /out:"Release/车辆管理系统.exe" 
+".\Release\车辆管理系统.obj"
+]
+Creating command line "link.exe @C:\Users\29265\AppData\Local\Temp\RSPD288.tmp"
+<h3>Output Window</h3>
+Compiling...
+车辆管理系统.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+车辆管理系统.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
